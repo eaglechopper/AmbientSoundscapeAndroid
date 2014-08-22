@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/appInfo"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/menu_appInfo"
+        />
+
+     <item
+        android:id="@+id/appTimer"
+        android:orderInCategory="1"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_appTimer"
+        />
+     <!-- List menu options -->
+     <item
+        android:id="@+id/sortByCat"
+        android:orderInCategory="3"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:showAsAction="never"
+        android:title="@string/menu_sortbycat"
+        />
+     <item
+        android:id="@+id/showcat"
+        android:orderInCategory="4"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:showAsAction="never"
+        android:title="@string/menu_showcat"
+        />
+     
+      <item
+        android:id="@+id/betaMessage"
+        android:orderInCategory="5"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:showAsAction="never"
+        android:title="@string/menu_betaMessage"
+        />
+       <item
+        android:id="@+id/creditsMenu"
+        android:orderInCategory="6"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:showAsAction="never"
+        android:title="@string/menu_credits"
+        />
+</menu>

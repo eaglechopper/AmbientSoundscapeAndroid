@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ambient Soundscape</string>
+
+  	<string name="drawer_open">Open</string>
+  	<string name="drawer_close">Close</string>
+  
+  	<!-- MainActivity GUI Strings -->  
+    <string name="nullTrack">&#8230;</string>
+    <string name="stopButton">Stop</string>
+  
+
+    <string name="activityLabel">Ambient Soundscape</string>
+    
+    <!-- Menu String names -->
+    <string name="menu_appInfo">Info</string>
+    <string name="menu_appTimer">Timer</string>
+    <string name="menu_betaMessage">Beta Message</string>
+    <string name="menu_credits">Credits</string>
+    
+     <string name="menu_showcat">Show Categories</string>
+      <string name="menu_sortbycat">Sort Alpabet/Category</string>
+    
+    
+    <string name="infoLabel">App/Dev Info</string>
+    <string name="infoText">Email: ambientsoundscape@gmail.com\nCountry: Australia\n</string>
+    
+    <string name="credits">
+        Special thanks to all these freesounders who let me use their sounds in this app\n\n
+        Andi Roselund (Sangwha Comm)\n
+		bmccoy2\n
+        geodylabs\n
+        IFartInUrGeneralDirection\n
+        
+    </string>
+     
+
+</resources>
